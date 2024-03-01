@@ -1,7 +1,7 @@
 {
 	"Tbl_Months": [
 		{
-			"Id": 1,
+			"id": 1,
 			"MonthMm": "တန်ခူး",
 			"MonthEn": "April",
 			"FestivalMm": "သင်္ကြန်ပွဲတော်",
@@ -11,7 +11,7 @@
 			"ImagePath":"april.jpg"
 		},
 		{
-			"Id": 2,
+			"id": 2,
 			"MonthMm": "ကဆုန်",
 			"MonthEn": "May",
 			"FestivalMm": "ညောင်ရေသွန်းပွဲတော်",
@@ -21,7 +21,7 @@
 			"ImagePath":"may.jpg"
 		},
 		{
-			"Id": 3,
+			"id": 3,
 			"MonthMm": "နယုန်",
 			"MonthEn": "June",
 			"FestivalMm": "စာပြန်ပွဲတော်",
@@ -31,7 +31,7 @@
 			"ImagePath":"june.jpg"
 		},
 		{
-			"Id": 4,
+			"id": 4,
 			"MonthMm": "ဝါဆို",
 			"MonthEn": "July",
 			"FestivalMm": "ပဉ္စင်းခံပွဲ",
@@ -41,7 +41,7 @@
 			"ImagePath":"july.jpg"
 		},
 		{
-			"Id": 5,
+			"id": 5,
 			"MonthMm": "ဝါခေါင်",
 			"MonthEn": "August",
 			"FestivalMm": "စာရေးတံပွဲ",
@@ -51,7 +51,7 @@
 			"ImagePath":"august.jpg"
 		},
 		{
-			"Id": 6,
+			"id": 6,
 			"MonthMm": "တော်သလင်း",
 			"MonthEn": "September",
 			"FestivalMm": "လှေပြိုင်ပွဲ",
@@ -61,7 +61,7 @@
 			"ImagePath":"september.jpg"
 		},
 		{
-			"Id": 7,
+			"id": 7,
 			"MonthMm": "သီတင်းကျွတ်",
 			"MonthEn": "October",
 			"FestivalMm": "မီးထွန်းပွဲ",
@@ -71,7 +71,7 @@
 			"ImagePath":"october.jpg"
 		},
 		{
-			"Id": 8,
+			"id": 8,
 			"MonthMm": "တန်ဆောင်မုန်း",
 			"MonthEn": "November",
 			"FestivalMm": "တန်ဆောင်တိုင်ပွဲ",
@@ -81,7 +81,7 @@
 			"ImagePath":"november.jpg"
 		},
 		{
-			"Id": 9,
+			"id": 9,
 			"MonthMm": "နတ်တော်",
 			"MonthEn": "December",
 			"FestivalMm": "နတ်ပွဲ",
@@ -91,7 +91,7 @@
 			"ImagePath":"december.jpg"
 		},
 		{
-			"Id": 10,
+			"id": 10,
 			"MonthMm": "ပြာသို",
 			"MonthEn": "January",
 			"FestivalMm": "မြင်းခင်းပွဲ",
@@ -101,7 +101,7 @@
 			"ImagePath":"january.jpg"
 		},
 		{
-			"Id": 11,
+			"id": 11,
 			"MonthMm": "တပို့တွဲ",
 			"MonthEn": "February",
 			"FestivalMm": "ထမနဲပွဲ",
@@ -111,7 +111,7 @@
 			"ImagePath":"february.jpg"
 		},
 		{
-			"Id": 12,
+			"id": 12,
 			"MonthMm": "တပေါင်း",
 			"MonthEn": "March",
 			"FestivalMm": "သဲပုံစေတီပွဲ",
